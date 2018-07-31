@@ -5,4 +5,8 @@
         <members>Implementation_Tracking__c.AutoRabit_Test__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>Implementation_Tracking__c</members>
+        <name>CustomObject</name>
+    </types>
 </Package>
